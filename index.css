@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400;500;600;700;800&display=swap');
+
+body {
+  margin: 0;
+  
+  font-family: 'Rajdhani', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  background: url(/public/bg-chat.png),#000000;
+  background-repeat: no-repeat;
+  background-size: cover;
+ 
+  
+
+  height: 94vh;
+  scroll-behavior: smooth;
+}
+
+code {
+  font-family: 'Rajdhani', sans-serif;
+}
